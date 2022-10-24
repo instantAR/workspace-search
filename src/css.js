@@ -54,7 +54,7 @@ const CSS_CONTENT = [
     'fill: black;',
   '}',
   'path.blocklyPath.blockly-ws-search-highlight.blockly-ws-search-current {',
-    'fill: grey;',
+    'fill: #c3c32c;',
   '}',
   '.blockly-ws-search-close-btn {',
     'background: url(' + CLOSE_SVG_DATAURI + ') no-repeat top left;',
